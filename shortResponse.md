@@ -9,6 +9,8 @@ Answer each question in 2–3 sentences.
 What is the difference between a static unit like `px` and a responsive unit like `%` or `vh`?
 
 Describe what makes a unit responsive and why that matters when building a website.
+ The difference is that px doesnt change any size,it just stays the same.For the % and vh is that they could fit the user screen so more people could use the web.
+.
 
 
 
@@ -34,6 +36,7 @@ Look at these two CSS rules:
 ```
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
+Because not every screen has 400px,and 50% would fir in every screen,and it would take 50% of the screen,instead of just px.
 
 
 
